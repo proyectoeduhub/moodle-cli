@@ -6,7 +6,7 @@ DATABASEID=1
 RID=0
 MOODLE_USER=admin
 MOODLE_PASS="q1w2e3r4;A"
-FILE=williecolon.jpg # plese, no spaces
+FILE=testdata/williecolon.jpg # plese, no spaces
 MOODLE_COURSE=2
 
 
